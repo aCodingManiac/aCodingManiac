@@ -4,11 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&theme=darkhub" alt="z4heed" /></a> </p>
 
+
 - 🔭 I’m currently working on [Matrix Operations](https://github.com/z4heed/matrixOP.git)
 - 🌱 I’m currently learning **TensorFlow, Pandas, Scikit-Learn**
 - 💬 Ask me about **Python, C, Numpy**
-- 📫 How to reach me **szasaa10@gmail.com**
-- 👨‍💻 All of my projects are available at **github.com/z4heed**
+- 📫 You can reach me by mailing me to [szasaa10@gmail.com](mailto:szasaa10@gmail.com)
+- 👨‍💻 All of my projects are available at [github.com/z4heed](https://github.com/z4heed)
+
 
 <div> <a href="https://twitter.com/iz4heed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/z4heed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -37,8 +39,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/z4heed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em" style="margin-right: 2.9em;"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" style="margin-left: 10em;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" />
   <br/>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4heed&theme=blueberry" height="180em" />
