@@ -14,18 +14,17 @@ A passionate programmer from Bengaluru, India
 - 📫 How to reach me: [szasaa10@gmail.com](mailto:szasaa10@gmail.com)
 
 ## Connect with me
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/i_zap4ever){:     
-height="30px" width="40px"}
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/z4heed){: height="30px" width="40px"}
-[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@szasaa10){: height="30px" width="40px"}
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/z4heed){: height="30px" width="40px"}
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/i_zap4ever){: height="20px" width="20px"}
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/z4heed){: height="20px" width="20px"}
+[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@szasaa10){: height="20px" width="20px"}
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/z4heed){: height="20px" width="20px"}
 
 ## Languages and Tools
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){: height="30px" width="30px"}
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg){: height="30px" width="30px"}
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){: height="30px" width="30px"}
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg){: height="30px" width="30px"}
+![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg){: height="30px" width="30px"}
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z4heed&layout=compact)
