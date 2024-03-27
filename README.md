@@ -28,7 +28,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
+<h3 align="left">Stars</h3>
+<p><img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" /></p>
+<p>&nbsp;<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=merko" alt="z4heed" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" /></p>
 
 
@@ -37,8 +39,6 @@
 <a href="https://github.com/z4heed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=merko" alt="z4heed" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" /></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4heed&theme=blueberry" height="180em" />
 </div>
 
