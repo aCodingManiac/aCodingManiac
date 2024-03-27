@@ -37,8 +37,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/z4heed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em" style="margin-right: 10px;"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" style="margin-left: 10px;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em" style="margin-right: 2em;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" style="margin-left: 2em;"/>
   <br/>
   <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4heed&theme=blueberry" height="180em" />
