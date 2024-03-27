@@ -29,9 +29,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4heed&langs_count=8&theme=merko" alt=z4heed />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4heed&langs_count=8&theme=merko" alt=z4heed />
 
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" /></p>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=merko" alt="z4heed" /></p>
 
 
