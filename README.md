@@ -1,17 +1,25 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hey 👋, I'm Shaik Zaheed Ahmed</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z4heed&label=Profile%20views&color=0e75b6&style=flat" alt="z4heed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=z4heed&label=Profile%20views&color=0e75b6&style=flat" alt="z4heed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&theme=darkhub" alt="z4heed" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&row=2&column=4&theme=monokai&" alt="z4heed" /></a> </p>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="45%" />
     <ul style="list-style-type: none; padding: 0;">
+        <br/>
+        <br/>
+        <br/>
         <li>🔭 I’m currently working on <a href="https://github.com/z4heed/matrixOP.git">Matrix Operations</a></li>
+        <br/>
         <li>🌱 I’m currently learning <strong>TensorFlow, Pandas, Scikit-Learn</strong></li>
+        <br/>
         <li>💬 Ask me about <strong>Python, C, Numpy</strong></li>
+        <br/>
         <li>📫 You can reach me by mailing me to <a href="mailto:szasaa10@gmail.com">szasaa10@gmail.com</a></li>
+        <br/>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/z4heed">github.com/z4heed</a></li>
+        <br/>
     </ul>
 </div>
 
