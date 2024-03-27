@@ -3,12 +3,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z4heed&label=Profile%20views&color=0e75b6&style=flat" alt="z4heed" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&row=2&column=4&theme=monokai&" alt="z4heed" /></a> </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="4%" 
+    align="left" >
+<p align="center">
+  <strong>About Me</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="4%" align="right" >
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="45%" />
     <ul style="list-style-type: none; padding: 0;">
         <br/>
         <br/>
+        <li>💁‍♂️ My close ones call me ⚡ZaP⚡</li>
         <br/>
         <li>🔭 I’m currently working on <a href="https://github.com/z4heed/matrixOP.git">Matrix Operations</a></li>
         <br/>
@@ -23,6 +31,7 @@
     </ul>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div> <a href="https://twitter.com/iz4heed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -49,7 +58,8 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/z4heed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em"/>
