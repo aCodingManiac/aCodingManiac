@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&theme=darkhub" alt="z4heed" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="45%" />
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="45%" />
+    <ul style="list-style-type: none; padding: 0;">
+        <li>🔭 I’m currently working on <a href="https://github.com/z4heed/matrixOP.git">Matrix Operations</a></li>
+        <li>🌱 I’m currently learning <strong>TensorFlow, Pandas, Scikit-Learn</strong></li>
+        <li>💬 Ask me about <strong>Python, C, Numpy</strong></li>
+        <li>📫 You can reach me by mailing me to <a href="mailto:szasaa10@gmail.com">szasaa10@gmail.com</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/z4heed">github.com/z4heed</a></li>
+    </ul>
+</div>
 
-- 🔭 I’m currently working on [Matrix Operations](https://github.com/z4heed/matrixOP.git)
-  
-- 🌱 I’m currently learning **TensorFlow, Pandas, Scikit-Learn**
-  
-- 💬 Ask me about **Python, C, Numpy**
-
-- 📫 You can reach me by mailing me to [szasaa10@gmail.com](mailto:szasaa10@gmail.com)
-
-- 👨‍💻 All of my projects are available at [github.com/z4heed](https://github.com/z4heed)
 
 
 <div> <a href="https://twitter.com/iz4heed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
