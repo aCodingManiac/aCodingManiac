@@ -4,12 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4heed&theme=darkhub" alt="z4heed" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="50%" />
 - 🔭 I’m currently working on [Matrix Operations](https://github.com/z4heed/matrixOP.git)
 - 🌱 I’m currently learning **TensorFlow, Pandas, Scikit-Learn**
 - 💬 Ask me about **Python, C, Numpy**
 - 📫 You can reach me by mailing me to [szasaa10@gmail.com](mailto:szasaa10@gmail.com)
 - 👨‍💻 All of my projects are available at [github.com/z4heed](https://github.com/z4heed)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="50%" />
 
 
 <div> <a href="https://twitter.com/iz4heed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
