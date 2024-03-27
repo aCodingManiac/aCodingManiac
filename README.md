@@ -14,10 +14,10 @@ A passionate programmer from Bengaluru, India
 - 📫 How to reach me: [szasaa10@gmail.com](mailto:szasaa10@gmail.com)
 
 ## Connect with me
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/i_zap4ever)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/i_zap4ever){: height="30px" width="40px"}
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/z4heed)
-[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@szasaa10)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/z4heed)
+[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@szasaa10){: height="30px" width="40px"}
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/z4heed){: height="30px" width="40px"}
 
 ## Languages and Tools
 ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
