@@ -38,7 +38,7 @@
 <div align="center">
 <a href="https://github.com/z4heed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4heed&theme=blueberry" height="180em" style="margin-right: 2.9em;"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" style="margin-left: 2.9em;"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4heed&theme=blueberry" height="180em" style="margin-left: 10em;"/>
   <br/>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4heed&theme=blueberry" height="180em" />
