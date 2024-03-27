@@ -29,8 +29,15 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" style="max-width: 90%;"/></p>
-<p>&nbsp;<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=merko" alt="z4heed" style="max-width: 90%;"/></p>
+<div style="overflow: hidden;">
+    <div style="width: 50%; float: left;">
+        <img align="left" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=merko" alt="z4heed" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="width: 50%; float: right;">
+        <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=merko" alt="z4heed" style="max-width: 100%; height: auto;">
+    </div>
+</div>
+
 
 
 
