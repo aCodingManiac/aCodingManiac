@@ -30,7 +30,7 @@
         <br/>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/z4heed">github.com/z4heed</a></li>
         <br/>
-      <li>🔥 I'm very fascinated where AI x Cyber</li>
+      <li>🔥 I'm very fascinated where AI x CY</li>
     </ul>
 </div>
 
