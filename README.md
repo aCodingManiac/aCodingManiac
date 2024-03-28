@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="4%"/>, I'm Shaik Zaheed Ahmed <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="4%"/></h1>
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="4%" align="left" >Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="4%"/>, I'm Shaik Zaheed Ahmed <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="4%"/><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="4%" align="right" >
+</h1>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"><br><img src="https://komarev.com/ghpvc/?username=z4heed&label=Profile%20views&color=0e75b6&style=flat" alt="z4heed" /> </p>
 
@@ -74,6 +75,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p><img align="left" height="161em" src="https://github-readme-streak-stats.herokuapp.com/?user=z4heed&theme=blueberry" alt="z4heed" style="max-width: 90%;"/>
 &nbsp;<img align="right" height="161em" src="https://github-readme-stats.vercel.app/api?username=z4heed&show_icons=true&locale=en&theme=blueberry" alt="z4heed" style="max-width: 90%;"/></p>
+
 <div align="center"><p><h3>&nbsp;</h3></p></div>
 <div align="center">
 <div align="center"><p><h3>&nbsp;</h3></p></div>
@@ -88,5 +90,6 @@
 <h3> </h3>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4heed&theme=blueberry" height="205em" />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
