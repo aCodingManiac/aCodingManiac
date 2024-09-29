@@ -71,7 +71,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="left" height="161em" src="https://github-readme-streak-stats.herokuapp.com/?user=aCodingManiac&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/>
+<p><img align="left" height="161em" src="https://github-readme-streak-stats.herokuapp.com/?user=aCodeManiac&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/>
 &nbsp;<img align="right" height="161em" src="https://github-readme-stats.vercel.app/api?username=aCodeManiac&show_icons=true&locale=en&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/></p>
 
 <div align="center"><p><h3>&nbsp;</h3></p></div>
