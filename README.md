@@ -72,7 +72,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p><img align="left" height="161em" src="https://github-readme-streak-stats.herokuapp.com/?user=aCodingManiac&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/>
-&nbsp;<img align="right" height="161em" src="https://github-readme-stats.vercel.app/api?username=aCodingManiac&show_icons=true&locale=en&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/></p>
+&nbsp;<img align="right" height="161em" src="https://github-readme-stats.vercel.app/api?username=aCodeManiac&show_icons=true&locale=en&theme=blueberry" alt="aCodingManiac" style="max-width: 90%;"/></p>
 
 <div align="center"><p><h3>&nbsp;</h3></p></div>
 <div align="center">
@@ -80,13 +80,13 @@
 <div align="center"><p><h3>&nbsp;</h3></p></div>
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aCodingManiac&theme=blueberry" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aCodwManiac&theme=blueberry" height="180em"/>
   &nbsp;
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aCodingManiac&theme=blueberry" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aCodeManiac&theme=blueberry" height="180em" />
   <br/>
 <h3> </h3>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aCodingManiac&theme=blueberry" height="205em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aCodeManiac&theme=blueberry" height="205em" />
 </div>
 
 
